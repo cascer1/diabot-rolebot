@@ -12,7 +12,7 @@ To run Rolebot, you need access to the following:
 2. Create a new application ![](/docs/create_application.png)
 3. In the menu to the side, click the "bot button"
 4. On the bot page, click the "create bot account" button ![](/docs/build_a_bot.png)
-5. Copy the newly created token into an environment variable called `DIABOTTOKEN` ![](/docs/copy_token.png)
+5. Copy the newly created token into an environment variable called `ROLEBOTTOKEN` ![](/docs/copy_token.png)
 
 ### Inviting Rolebot to your server
 To invite Rolebot to your test server, create an invitation URL by replacing `<client_id>` in the following URL with the client ID 
