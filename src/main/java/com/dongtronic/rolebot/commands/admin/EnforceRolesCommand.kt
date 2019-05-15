@@ -7,9 +7,6 @@ import com.jagrosh.jdautilities.command.CommandEvent
 import net.dv8tion.jda.core.Permission
 import org.slf4j.LoggerFactory
 
-/**
- * @author John Grosh (jagrosh)
- */
 class EnforceRolesCommand(category: Category) : RolebotCommand(category, null) {
 
     init {

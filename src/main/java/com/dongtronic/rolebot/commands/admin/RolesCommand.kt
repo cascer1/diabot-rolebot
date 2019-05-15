@@ -4,9 +4,6 @@ import com.dongtronic.rolebot.commands.RolebotCommand
 import com.jagrosh.jdautilities.command.CommandEvent
 import net.dv8tion.jda.core.Permission
 
-/**
- * @author John Grosh (jagrosh)
- */
 class RolesCommand(category: Category) : RolebotCommand(category, null) {
 
     init {
